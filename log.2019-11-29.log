@@ -1,0 +1,83 @@
+11:29 00:12:13.601 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 10064 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:29 00:12:13.601 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:29 00:12:20.035 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 10064 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:29 00:12:20.036 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:29 00:12:21.749 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 00:12:21.760 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 00:12:21.760 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 00:12:21.763 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 00:12:21.763 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 1.773 seconds (JVM running for 2994.938)
+11:29 00:21:24.116 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 10064 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:29 00:21:24.116 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:29 00:21:29.721 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 10064 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:29 00:21:29.721 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:29 00:21:31.365 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 00:21:31.374 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 00:21:31.374 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 00:21:31.376 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 00:21:31.376 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 1.701 seconds (JVM running for 3544.55)
+11:29 08:55:21.301 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 56287 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 08:55:21.302 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 08:55:24.241 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 08:55:24.279 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 08:55:24.279 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 08:55:24.281 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 08:55:24.282 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.109 seconds (JVM running for 3.597)
+11:29 08:59:59.515 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 56287 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 08:59:59.515 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 09:00:17.850 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 56598 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 09:00:17.852 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 09:00:42.248 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 56615 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 09:00:42.249 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 09:00:45.141 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 09:00:45.184 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 09:00:45.184 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 09:00:45.185 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 09:00:45.186 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.065 seconds (JVM running for 3.55)
+11:29 09:32:09.257 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 58482 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 09:32:09.259 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 09:32:12.129 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 09:32:12.166 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 09:32:12.166 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 09:32:12.167 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 09:32:12.169 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.035 seconds (JVM running for 3.522)
+11:29 09:42:52.999 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 58482 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 09:42:53.000 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 09:42:54.623 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 09:42:54.632 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 09:42:54.632 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 09:42:54.633 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 09:42:54.633 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 1.807 seconds (JVM running for 645.978)
+11:29 09:43:06.803 [http-nio-9000-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:29 09:43:06.845 [http-nio-9000-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:29 11:12:09.520 [http-nio-9000-exec-10] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:29 11:12:09.575 [http-nio-9000-exec-10] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:29 11:12:16.102 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:29 11:12:16.108 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:29 11:13:05.155 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 58482 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 11:13:05.155 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 11:13:06.300 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 11:13:06.318 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 11:13:06.318 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 11:13:06.319 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 11:13:06.320 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 1.421 seconds (JVM running for 6057.525)
+11:29 11:13:11.763 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:29 11:13:11.776 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:29 11:15:13.319 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 58482 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 11:15:13.319 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 11:15:14.467 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 11:15:14.475 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 11:15:14.475 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 11:15:14.476 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 11:15:14.476 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 1.397 seconds (JVM running for 6185.68)
+11:29 11:50:30.860 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 67361 (/Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct/target/classes started by kael.zhang in /Users/kael.zhang/Downloads/ShoppingAppMicroservices/ShoppingAppProduct)
+11:29 11:50:30.861 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:29 11:50:33.839 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 11:50:33.876 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 11:50:33.876 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:29 11:50:33.877 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:29 11:50:33.878 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.144 seconds (JVM running for 3.642)
+11:29 11:50:42.527 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:29 11:50:42.554 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:29 11:50:48.687 [http-nio-9000-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:29 11:50:48.692 [http-nio-9000-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
